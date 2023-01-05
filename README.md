@@ -1,11 +1,11 @@
-#APPokemon
+# APPokemon
 ![](https://i.postimg.cc/VNh9c35Y/appokemon.png)
 
 ## How to install and run this project
 
-#####This project was built using Flutter version 3.3.10, and it should work with the latest version as well. Make sure you have this version or a newer one by running `flutter upgrade`
+##### This project was built using Flutter version 3.3.10, and it should work with the latest version as well. Make sure you have this version or a newer one by running `flutter upgrade`
 
-1. Run `git clone url` in your terminal to clone the project.
+1. Run `git clone https://github.com/Jero995/APPokemon.git` in your terminal to clone the project.
 2. Open the cloned project and run `flutter pub get` to install its dependencies.
 3. You can then run the project by running `flutter run` or by pressing F5.
 	- If you encounter any errors, try running `flutter clean` and `flutter pub get` again.
